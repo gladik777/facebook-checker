@@ -1,0 +1,3 @@
+user1@gmail.com:parol123
+user2@yahoo.com:parol456
+user3@hotmail.com:parol789
